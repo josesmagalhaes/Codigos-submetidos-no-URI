@@ -1,1 +1,1 @@
-# Codigos submetidos no URI
+Codigos submetidos no URI Online Judge. O URI Online Judge é um projeto que está sendo desenvolvido pelo Departamento de Ciência da Computação da URI University. O principal objetivo do projeto é fornecer práticas de programação e compartilhamento de conhecimento.
